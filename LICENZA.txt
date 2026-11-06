@@ -1,0 +1,109 @@
+Ges.Ca. — Licence / Licenza d'uso
+Version 1.0 — 29 October 2026
+Copyright (c) 2026 Federico Casillo. All rights reserved. / Tutti i diritti riservati.
+
+The Italian text prevails. / Fa fede il testo italiano.
+
+=============================================================================== ENGLISH
+
+This licence governs the use of the program Ges.Ca. ("the Program"), owned by Federico Casillo ("the Author").
+By downloading, installing or using the Program you accept these terms.
+
+1. Trial version
+   Anyone, companies included, may download and use the trial version free of charge and without time limit, with its
+   technical limit: at most 10 items and 20 documents present in the archives. The count is made on the records
+   present. At the limit no new items can be entered and no new documents can be recorded; everything can still be
+   viewed and exported. If the archives exceed the limit, neither new items nor new documents can be entered.
+
+2. Full licence
+   The full licence is granted with a key issued by the Author after payment of the agreed price (price on request,
+   VAT excluded). A key is valid for one machine, bound to its system serial number, and covers all the partitions of
+   that machine. The licence does not expire.
+   The licence covers the base part of the Program and the purchased modules, encoded in the key; in the trial
+   version all the modules can be tried. A module can be added later with a new key.
+   The full licence is sold only to businesses with their registered office in the European Union.
+
+3. Not permitted
+   - circumventing, disabling or altering the trial limits or the key check, including by loading data directly into
+     the files to get around the limits;
+   - decompiling, disassembling, retrieving or modifying the compiled programs, except where the law allows it
+     regardless;
+   - distributing modified versions of the Program or licence keys.
+   You may give third parties the official release of the Program as it is, without changes.
+
+4. Source code
+   The source code is not part of the distribution. The Author may grant it separately, under a separate agreement,
+   for internal use only and without the right to redistribute it.
+
+5. Tax and fiscal obligations
+   The Program is not a telematic cash register (registratore telematico) and does not send invoices to the Italian
+   Exchange System (SDI). It exports the data of electronic invoices and commercial documents for an external gateway,
+   telematic cash register or intermediary, chosen, contracted and kept up to date by the customer. The customer
+   remains responsible for the fiscal obligations and for checking the data sent.
+
+6. Data and backups
+   The customer is responsible for their data and for regular backups. The Program has a backup function, but the
+   customer must make sure it is used and that the backups can be restored.
+
+7. Warranty and liability
+   The Program is provided "as is", without warranty of any kind. To the extent permitted by law the Author is not
+   liable for direct or indirect damage arising from its use, including loss of data and fiscal penalties.
+
+8. Governing law and jurisdiction
+   Italian law. The courts of Como (Italy) have exclusive jurisdiction over any dispute, except where the law
+   mandatorily provides for a different court.
+
+Contact: fede.casillo@gmail.com
+
+=============================================================================== ITALIANO
+
+La presente licenza regola l'uso del programma Ges.Ca. (di seguito "il Programma"), di proprietà di Federico Casillo
+(di seguito "l'Autore"). Scaricando, installando o usando il Programma si accettano queste condizioni.
+
+1. Versione di prova
+   Chiunque, anche un'azienda, può scaricare e usare gratuitamente il Programma in versione di prova, senza limiti di
+   tempo, con il limite tecnico previsto: al massimo 10 articoli e 20 documenti presenti negli archivi. Il conteggio
+   si fa sui record presenti. Raggiunto il limite non si inseriscono articoli nuovi e non si registrano documenti
+   nuovi; tutto si può ancora consultare ed esportare. Se gli archivi superano il limite, non si inseriscono né
+   articoli né documenti nuovi.
+
+2. Licenza completa
+   La licenza completa si ottiene con una chiave rilasciata dall'Autore dopo il pagamento del prezzo concordato
+   (prezzo su richiesta, IVA esclusa). La chiave vale per una sola macchina, è legata al suo numero di serie di
+   sistema e copre tutte le partizioni di quella macchina. La licenza non scade.
+   La licenza comprende la parte di base del Programma e i moduli acquistati, indicati nella chiave; nella versione
+   di prova si possono provare tutti i moduli. Un modulo si aggiunge in seguito con una chiave nuova.
+   La licenza completa è venduta solo ad aziende con sede nell'Unione Europea.
+
+3. Cosa non è consentito
+   - aggirare, disattivare o modificare i limiti della versione di prova, il controllo della chiave o dei moduli
+     compresi, anche caricando dati direttamente negli archivi per superare i limiti;
+   - decompilare, disassemblare, recuperare o modificare i programmi compilati, salvo quanto la legge consente
+     comunque;
+   - distribuire versioni modificate del Programma o chiavi di licenza.
+   È consentito distribuire a terzi la versione ufficiale del Programma così com'è, senza modifiche.
+
+4. Sorgenti
+   I sorgenti non fanno parte della distribuzione. L'Autore può concederli a parte, con un accordo separato, solo per
+   uso interno e senza diritto di ridistribuirli.
+
+5. Adempimenti fiscali
+   Il Programma non è un registratore telematico e non invia le fatture al Sistema di Interscambio (SDI). Esporta i
+   dati delle fatture elettroniche e dei documenti commerciali per un canale esterno, un registratore telematico o un
+   intermediario, scelto, contrattualizzato e tenuto aggiornato dal cliente. Il cliente resta responsabile degli
+   adempimenti fiscali e del controllo dei dati inviati.
+
+6. Dati e salvataggi
+   Il cliente è responsabile dei propri dati e dei salvataggi regolari. Il Programma ha una funzione di salvataggio,
+   ma il cliente deve verificare che venga usata e che i salvataggi si possano ripristinare.
+
+7. Garanzia e responsabilità
+   Il Programma è fornito "così com'è", senza garanzie di alcun tipo. Nei limiti consentiti dalla legge l'Autore non
+   risponde di danni diretti o indiretti derivanti dall'uso del Programma, inclusa la perdita di dati e le sanzioni
+   fiscali.
+
+8. Legge applicabile e foro competente
+   Legge italiana. Per ogni controversia è competente in via esclusiva il Foro di Como, salvi i casi in cui la legge
+   prevede inderogabilmente un foro diverso.
+
+Contatti: fede.casillo@gmail.com
